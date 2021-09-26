@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.PlayerJoystickController.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\MehmethanSargin\Desktop\myrepo\PlayerJoystickController\.idea\.idea.PlayerJoystickController\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
